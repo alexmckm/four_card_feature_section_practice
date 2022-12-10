@@ -58,6 +58,7 @@ p.description {
 }
 
 .carte {
+    background-color: white;
     text-align: start;
     font-size: 1rem;
     padding: 1.5em 1.8em;
